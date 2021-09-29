@@ -1,0 +1,11 @@
+<Thaumcraft:ItemGolemDecoration:1>.displayName = '\u75f4\u611a\u65c5\u4eba';
+<PotionCoreAddon:ItemGolemDecoration_0>.displayName = '\u00a76\u7ae0\u7eb9: \u6500\u767b\u8005';
+<Thaumcraft:ItemGolemDecoration:5>.displayName = '\u6df1\u6f5c\u8005';
+<Thaumcraft:ItemGolemDecoration>.displayName = '\u6076\u9b54';
+<Thaumcraft:ItemGolemDecoration:7>.displayName = '\u5929\u4f7f';
+<Thaumcraft:ItemGolemDecoration:3>.displayName = '\u672f\u58eb';
+<Thaumcraft:ItemGolemDecoration:2>.displayName = '\u98ce\u8bed\u8005';
+<Thaumcraft:ItemGolemDecoration:6>.displayName = '\u94c1\u5320';
+<PotionCoreAddon:ItemGolemDecoration_1>.displayName = '\u00a76\u7ae0\u7eb9: \u501f\u955c\u8005';
+<Thaumcraft:ItemGolemDecoration:4>.displayName = '\u6218\u672f\u5e08';
+<PotionCoreAddon:ItemGolemDecoration_2>.displayName = '\u00a76\u7ae0\u7eb9: \u7a7a\u60f3\u5bb6';
