@@ -8,18 +8,18 @@
 
 ### 需要以下mod作为前置支持
 
--MineTweaker3
+·MineTweaker3
 
--MineTweaker2
+·MineTweaker2
 
--ThaumicTinkerer
+·ThaumicTinkerer
 
--Polybius-Beta
+·Polybius-Beta
 
--MagicalDecorations
+·MagicalDecorations
 
--Thaumcraft
+·Thaumcraft
 
--PotionCore
+·PotionCore
 
--CustomStuff3
+·CustomStuff3
