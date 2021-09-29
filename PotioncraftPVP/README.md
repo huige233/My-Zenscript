@@ -9,10 +9,17 @@
 ### 需要以下mod作为前置支持
 
 -MineTweaker3
+
 -MineTweaker2
+
 -ThaumicTinkerer
+
 -Polybius-Beta
+
 -MagicalDecorations
+
 -Thaumcraft
+
 -PotionCore
+
 -CustomStuff3
