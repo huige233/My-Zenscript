@@ -1,0 +1,17 @@
+<ore:gemApatite>.remove(<item:forestry:apatite>);
+<ore:fertilizerApatite>.add(<item:forestry:apatite>);
+<ore:blockApatite>.remove(<forestry:resource_storage>);
+<ore:blockFertilizerApatite>.add(<forestry:resource_storage>);
+<ore:oreQuartz>.remove(<minecraft:quartz_ore>);
+<ore:oreNetherQuartz>.add(<minecraft:quartz_ore>);
+<ore:listAllspice>.add(<mekanism:salt>);
+<ore:listAllspice>.add(<harvestcraft:saltitem>);
+<ore:auraDetector>.add(<naturesaura:eye>);
+<ore:auraDetector>.add(<naturesaura:eye_improved>);
+<ore:teaCup>.add(<teastory:cup:*>);
+<ore:teaPot>.add(<teastory:pot_stone>);
+<ore:teaPot>.add(<teastory:pot_iron>);
+<ore:teaPot>.add(<teastory:pot_porcelain>);
+<ore:teaPot>.add(<teastory:pot_zisha>);
+<ore:teaKettle>.add(<teastory:empty_zisha_kettle>);
+<ore:teaKettle>.add(<teastory:empty_porcelain_kettle>);
