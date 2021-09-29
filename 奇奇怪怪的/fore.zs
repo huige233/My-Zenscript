@@ -1,0 +1,1 @@
+mods.forestry.Carpenter.removeRecipe(<Forestry:letters>);
